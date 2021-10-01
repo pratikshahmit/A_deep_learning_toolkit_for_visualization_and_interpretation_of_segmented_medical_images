@@ -1,4 +1,4 @@
-# Generalizable multi-model deep learning toolkit with statistical estimations and gradient backpropagation for segmentation of medical images
+# Generalizable multi-model deep learning toolkit with statistical estimations, visualizations and interpretation for segmentation of medical images
 
 ## Index:
 

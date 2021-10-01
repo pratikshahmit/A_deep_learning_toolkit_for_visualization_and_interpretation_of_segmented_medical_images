@@ -1,4 +1,4 @@
-# Generalizable multi-model deep learning toolkit with statistical estimations, visualizations and interpretation for segmentation of medical images
+# A deep learning toolkit for visualization and interpretation of segmented medical images
 
 ## Index:
 

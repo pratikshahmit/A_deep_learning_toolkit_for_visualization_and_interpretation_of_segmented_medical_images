@@ -29,7 +29,4 @@
 - Prostate core biopsy images:
   - https://drive.google.com/file/d/1RKGUH7SJ60uYTygFqxLYzNL3IfZQmcA6/view?usp=sharing
   ![Image of Prostate 2](images/prostate2.PNG)
-- Kidney CT images:
-
-### NOTE: Trained <img src="https://latex.codecogs.com/gif.latex?L_{MI}"/> and <img src="https://latex.codecogs.com/gif.latex?T_{II}"/> models and associated data and code provided through the links above, will be made publicly available upon publication of manuscript.
-
+- Kidney CT images: Grad-CAM outputs of Kidney CT image data were too large to incorporate into a pdf document. Please send a request to the corresponding author for viewing these outputs.
